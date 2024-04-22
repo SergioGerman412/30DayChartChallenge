@@ -1,0 +1,4 @@
+https://docs.google.com/spreadsheets/d/1aZJhAHoMRJC-ECI3CcFNwivPALLODM5a8tuPMr_Ty3s/edit?usp=sharing
+
+
+El dataset fue scrapeado, está dentro del GoogleSheet
